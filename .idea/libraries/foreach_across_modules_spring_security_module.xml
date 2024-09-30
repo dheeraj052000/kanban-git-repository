@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="foreach.across.modules.spring.security.module" type="repository">
+    <properties maven-id="com.foreach.across.modules:spring-security-module:4.5.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/foreach/across/modules/spring-security-module/4.5.0/spring-security-module-4.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.8.12/spring-security-core-5.8.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-crypto/5.8.12/spring-security-crypto-5.8.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.34/spring-aop-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.34/spring-beans-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.34/spring-context-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.34/spring-core-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.34/spring-jcl-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.3.34/spring-expression-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.8.12/spring-security-web-5.8.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.34/spring-web-5.3.34.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.8.12/spring-security-config-5.8.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
